@@ -3,8 +3,8 @@
 ![Test Image 1](pool.png)
 
 Requirements: 
-              OpenCV-Python
-              Keras < 2.0
+              OpenCV-Python, 
+              Keras < 2.0, 
               scikit_learn 
 
 
